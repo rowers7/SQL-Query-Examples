@@ -1,1 +1,1 @@
-###Veritabanında kod alıştırması için sorgu örnekleri
+### Veritabanında kod alıştırması için sorgu örnekleri
